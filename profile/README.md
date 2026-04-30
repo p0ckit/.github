@@ -8,7 +8,7 @@ The purpose is not to replace mainstream tools and framework, it's purpose is to
 And to help you when you need it.  
 ## Should you use pockit?
 ### YES if:
-- you want somethign lightweit, fast and easy to use.
+- you want somethign lightweight, fast and easy to use.
 - you don't want somethign that feels "bloated".
 ### NO if:
 - you espect the mainstream feel of a tool.
