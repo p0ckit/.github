@@ -1,6 +1,5 @@
-# Hi, We are p0ckit
-
-We are the team behind p0ckit.  
+# Hi, I'm TGRD  
+The one behind p0ckit.   
 ## What is p0ckit
 p0ckit is a framework made in bash, it's made to automate scans, attacks, post-exploit.  
 ## p0ckit purpose
