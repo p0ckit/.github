@@ -3,7 +3,7 @@ The one behind p0ckit.
 ## What is p0ckit
 p0ckit is a framework made in bash, it's made to automate scans, attacks, post-exploit.  
 ## p0ckit purpose
-The purpose is not to replace mainstream tools and framework, it's purpose is to be a simple and lightweight companion framework.  
+The purpose is not to replace mainstream tools and frameworks, it's purpose is to be a simple and lightweight companion framework.  
 And to help you when you need it.  
 ## Should you use pockit?
 ### YES if:
@@ -13,4 +13,4 @@ And to help you when you need it.
 - you espect the mainstream feel of a tool.
 - you need a vast list of scanners, exploits, payloads and automation scripts.
 ## Should you try p0ckit?
-#### YES, you have nothing to lose, and if you don't like it feel free to tell us why
+#### YES, you have nothing to lose, and if you don't like it feel free to tell why
